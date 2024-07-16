@@ -1,3 +1,5 @@
+# OWNER
+REINIS ESPINAL CRUZ
 # Project Description:
 
 Este proyecto tiene como objetivo crear un sitio web para una escuela utilizando las tecnologías Angular, HTML, CSS y SASS. El sitio web estará diseñado para mostrar los servicios que ofrece la constructora, así como sus proyectos realizados. 
